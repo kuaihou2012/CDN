@@ -1,0 +1,55 @@
+vmess=uk-cv-1.gia.icu:8300, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=您当前的套餐将持续到: 2024-04-16
+vmess=uk-cv-1.gia.icu:8300, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=节点来源：https://my.x-air.app:666/#
+vmess=4928.b-adad9312323.song.ting-wo-shuo-xiexieni.com:8304, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=澳洲BX01 4928进阶版 1x
+vmess=4928.c-asd99qwsadsd.songs.ting-wo-shuo-xiexieni.com:8304, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=澳洲CX01 4928进阶版 1x
+vmess=4928.d-ads9123sad.songs.ting-wo-shuo-xiexieni.com:8304, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=澳洲DX01 4928高级版 1x
+vmess=4928.a-dasd287af829f0.songs.ting-wo-shuo-xiexieni.com:8312, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港AX01 4928高级版 0.3x
+vmess=4928.a-dasd287af829f0.songs.ting-wo-shuo-xiexieni.com:8310, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港AX02 4928进阶版 0.3x
+vmess=4928.a-dasd287af829f0.songs.ting-wo-shuo-xiexieni.com:8311, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港AX03 4928进阶版 0.3x
+vmess=4928.b-adad9312323.song.ting-wo-shuo-xiexieni.com:8312, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港BX01 4928高级版 0.3x
+vmess=4928.b-adad9312323.song.ting-wo-shuo-xiexieni.com:8310, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港BX02 4928进阶版 0.3x
+vmess=4928.b-adad9312323.song.ting-wo-shuo-xiexieni.com:8311, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港BX03 4928进阶版 0.3x
+vmess=4928.c-asd99qwsadsd.songs.ting-wo-shuo-xiexieni.com:8312, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港CX01 4928高级版 0.3x
+vmess=4928.c-asd99qwsadsd.songs.ting-wo-shuo-xiexieni.com:8310, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港CX02 4928高级版 0.3x
+vmess=4928.c-asd99qwsadsd.songs.ting-wo-shuo-xiexieni.com:8311, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港CX03 4928高级版 0.3x
+vmess=4928.d-ads9123sad.songs.ting-wo-shuo-xiexieni.com:8312, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港DX01 4928高级版 0.3x
+vmess=4928.d-ads9123sad.songs.ting-wo-shuo-xiexieni.com:8310, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港DX02 4928进阶版 0.3x
+vmess=4928.d-ads9123sad.songs.ting-wo-shuo-xiexieni.com:8311, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港DX03 4928进阶版 0.3x
+vmess=4928.ie.1a005gka.song.ting-wo-shuo-xiexieni.com:38312, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港IX01 [IEPL] 4928高级版 1.5x
+vmess=4928.ie.1a005gka.song.ting-wo-shuo-xiexieni.com:38310, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港IX02 [IEPL] 4928高级版 1.5x
+vmess=4928.ie.1a005gka.song.ting-wo-shuo-xiexieni.com:38311, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港IX03 [IEPL] 4928高级版 1.5x
+vmess=4928.a-dasd287af829f0.songs.ting-wo-shuo-xiexieni.com:8305, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=印度AX01 4928高级版 0.2x
+vmess=4928.b-adad9312323.song.ting-wo-shuo-xiexieni.com:8305, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=印度BX01 4928高级版 0.2x
+vmess=4928.c-asd99qwsadsd.songs.ting-wo-shuo-xiexieni.com:8305, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=印度CX01 4928高级版 0.2x
+vmess=4928.d-ads9123sad.songs.ting-wo-shuo-xiexieni.com:8305, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=印度DX01 4928高级版 0.2x
+vmess=4928.a-dasd287af829f0.songs.ting-wo-shuo-xiexieni.com:8302, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=日本AX01 4928进阶版 1x
+vmess=4928.a-dasd287af829f0.songs.ting-wo-shuo-xiexieni.com:8314, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=日本AX03 4928高级版 0.5x
+vmess=4928.b-adad9312323.song.ting-wo-shuo-xiexieni.com:8302, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=日本BX01 4928进阶版 1x
+vmess=4928.b-adad9312323.song.ting-wo-shuo-xiexieni.com:8314, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=日本BX03 4928高级版 0.5x
+vmess=4928.c-asd99qwsadsd.songs.ting-wo-shuo-xiexieni.com:8302, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=日本CX01 4928高级版 1x
+vmess=4928.c-asd99qwsadsd.songs.ting-wo-shuo-xiexieni.com:8314, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=日本CX03 4928高级版 0.5x
+vmess=4928.d-ads9123sad.songs.ting-wo-shuo-xiexieni.com:8302, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=日本DX01 4928进阶版 1x
+vmess=4928.d-ads9123sad.songs.ting-wo-shuo-xiexieni.com:8314, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=日本DX03 4928高级版 0.5x
+vmess=4928.ie.1a005gka.song.ting-wo-shuo-xiexieni.com:38302, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=日本IX01 [IEPL] 4928高级版 1.5x
+vmess=4928.a-dasd287af829f0.songs.ting-wo-shuo-xiexieni.com:8303, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=俄罗斯AX01 4928进阶版 0.3x
+vmess=4928.b-adad9312323.song.ting-wo-shuo-xiexieni.com:8303, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=俄罗斯BX01 4928进阶版 0.3x
+vmess=4928.c-asd99qwsadsd.songs.ting-wo-shuo-xiexieni.com:8303, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=俄罗斯CX01 4928高级版 0.5x
+vmess=4928.d-ads9123sad.songs.ting-wo-shuo-xiexieni.com:8303, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=俄罗斯DX01 4928进阶版 0.3x
+vmess=4928.a-dasd287af829f0.songs.ting-wo-shuo-xiexieni.com:8321, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=新加坡AD01 4928高级版 0.1x
+vmess=4928.b-adad9312323.song.ting-wo-shuo-xiexieni.com:8321, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=新加坡BD01 4928高级版 0.1x
+vmess=4928.c-asd99qwsadsd.songs.ting-wo-shuo-xiexieni.com:8321, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=新加坡CD01 4928高级版 0.1x
+vmess=4928.d-ads9123sad.songs.ting-wo-shuo-xiexieni.com:8321, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=新加坡DD01 4928高级版 0.1x
+vmess=4928.ie.1a005gka.song.ting-wo-shuo-xiexieni.com:38321, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=新加坡IX01 [IEPL] 4928高级版 1.5x
+vmess=4928.a-dasd287af829f0.songs.ting-wo-shuo-xiexieni.com:8308, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=台湾AX01 4928进阶版 1x
+vmess=4928.b-adad9312323.song.ting-wo-shuo-xiexieni.com:8308, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=台湾BX01 4928进阶版 1x
+vmess=4928.c-asd99qwsadsd.songs.ting-wo-shuo-xiexieni.com:8308, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=台湾CX01 4928高级版 1x
+vmess=4928.d-ads9123sad.songs.ting-wo-shuo-xiexieni.com:8308, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=台湾DX01 4928进阶版 1x
+vmess=4928.ie.1a005gka.song.ting-wo-shuo-xiexieni.com:38308, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=台湾IX01 [IEPL] 4928高级版 1.5x
+vmess=4928.a-dasd287af829f0.songs.ting-wo-shuo-xiexieni.com:8306, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=英国AX01 4928进阶版 0.8x
+vmess=4928.b-adad9312323.song.ting-wo-shuo-xiexieni.com:8306, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=英国BX01 4928进阶版 0.8x
+vmess=4928.d-ads9123sad.songs.ting-wo-shuo-xiexieni.com:8306, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=英国DX01 4928进阶版 0.8x
+vmess=4928.a-dasd287af829f0.songs.ting-wo-shuo-xiexieni.com:8301, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=美国AX01 4928进阶版 0.3x
+vmess=4928.b-adad9312323.song.ting-wo-shuo-xiexieni.com:8301, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=美国BX01 4928进阶版 0.3x
+vmess=4928.c-asd99qwsadsd.songs.ting-wo-shuo-xiexieni.com:8301, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=美国CX01 4928高级版 0.3x
+vmess=4928.d-ads9123sad.songs.ting-wo-shuo-xiexieni.com:8301, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=美国DX01 4928进阶版 0.3x
+vmess=4928.ie.1a005gka.song.ting-wo-shuo-xiexieni.com:38309, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=美国IX01 [IEPL] 4928高级版 1.5x
