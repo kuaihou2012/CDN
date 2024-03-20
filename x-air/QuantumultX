@@ -1,7 +1,8 @@
 vmess=uk-cv-1.gia.icu:8300, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=您当前的套餐将持续到: 2024-04-16
 vmess=uk-cv-1.gia.icu:8300, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=节点来源：https://my.x-air.app:666/#
+vmess=4928.a-dasd287af829f0.songs.ting-wo-shuo-xiexieni.com:8304, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=澳洲AX01 4928进阶版 0.3x
 vmess=4928.b-adad9312323.song.ting-wo-shuo-xiexieni.com:8304, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=澳洲BX01 4928进阶版 1x
-vmess=4928.c-asd99qwsadsd.songs.ting-wo-shuo-xiexieni.com:8304, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=澳洲CX01 4928进阶版 1x
+vmess=4928.c-asd99qwsadsd.songs.ting-wo-shuo-xiexieni.com:8304, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=澳洲CX01 4928高级版 1x
 vmess=4928.d-ads9123sad.songs.ting-wo-shuo-xiexieni.com:8304, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=澳洲DX01 4928高级版 1x
 vmess=4928.a-dasd287af829f0.songs.ting-wo-shuo-xiexieni.com:8312, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港AX01 4928高级版 0.3x
 vmess=4928.a-dasd287af829f0.songs.ting-wo-shuo-xiexieni.com:8310, method=chacha20-ietf-poly1305, password=5e5b073c-281b-5ac8-8f6e-b01740148bc0, fast-open=false, udp-relay=true, tag=香港AX02 4928进阶版 0.3x
